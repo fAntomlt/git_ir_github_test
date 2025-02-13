@@ -11,3 +11,4 @@ dar info
 dar kazkas
 
 # didele skiltis 2
+Info papildoma
